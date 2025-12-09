@@ -1,0 +1,16 @@
+{
+  "name": "Bảng Quản Lý Công Việc",
+  "short_name": "Bảng Quản Lý Công Việc",
+  "description": "Quản lý công việc cá nhân và dự án",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007233",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
